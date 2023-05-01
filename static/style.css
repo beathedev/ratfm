@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+*{
+  cursor: url('whiterat_norm.cur'), pointer;
+}
+
+h1, h2 {
+    font-family: 'Cute Font', cursive;
+    font-size: 2em;
+    color: #BAA0A0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+.list {
+    text-align: center;
+}
+
+li, .subtitle {
+    font-family: 'Cute Font', cursive;
+    font-size: 2.2em;
+    color: #693737;
+    text-align: center;
+    
+}
+
+/*bullet list change*/
+ul {
+  list-style: none;
+}
+ul li:before {
+  content: '★';
+  padding: 5px;
+}
+
+
+
+  body::before {
+    content: "";
+    background-image: url('bgimage5.jpg');
+    background-repeat: repeat;
+    opacity: 0.1; 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+
+    border: 20px solid #992323;
+  }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.rato {
+  width: 150px;
+  height: auto;
+  margin-top: 1em;
+}
