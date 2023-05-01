@@ -38,8 +38,6 @@ pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycparser==2.21
 pyfiglet==0.8.post1
-pygame @ file:///C:/Users/beatriz/AppData/Local/Programs/Python/Python37/Scripts/pygame-2.1.2-cp37-cp37m-win_amd64.whl
-PyOpenGL @ file:///C:/Users/beatriz/AppData/Local/Programs/Python/Python37/Scripts/PyOpenGL-3.1.6-cp37-cp37m-win_amd64.whl
 pyparsing==3.0.9
 PySocks==1.7.1
 python-resize-image==1.1.20
