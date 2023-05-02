@@ -4,12 +4,12 @@ import json
 from google_images_search import GoogleImagesSearch
 
 #google
-api_key_google = "AIzaSyCUeo1Lt3JQ1Vd8v5vmmqzZ6LeGlivCWAU"
-cx="9372706d192d340b2"
+api_key_google = ""
+cx=""
 
 #lastfm
-api_key = '43ef4c5b06c364ab45ad9ac7a8b8080e'
-user = 'honsool'
+api_key = ''
+user = ''
 
 
 app = Flask(__name__)
