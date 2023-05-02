@@ -19,6 +19,6 @@ The front-end of the application was built using HTML, CSS, and Jinja2 templates
   <li>CX Key (Custom Search API)</li>
   <li>LastFM Username</li>
 </ul>
-Theses keys and username should be added in the following part:
+These keys and username should be added in the following part:
 
 ![image](https://user-images.githubusercontent.com/92948733/235558448-c5d12a12-928d-4b4a-bc21-f7dd21f630d0.png)
